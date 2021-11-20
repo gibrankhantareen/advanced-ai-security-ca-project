@@ -30,3 +30,4 @@ on Python 3.9.1<br><br>
 11) SpeechRecognition: Library for performing speech recognition in Python<br>
 12) FaceRecognition: Library to Recognize and manipulate faces from Python or from the command line<br>
 13) Time: a predefined Python module which allows us to handle various operations regarding time<br>
+14) Import file "Email_test.py" as module (to send alert emails)<br>
